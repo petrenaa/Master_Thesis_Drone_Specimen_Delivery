@@ -65,7 +65,7 @@ Frau Dr. med. Jutta Häring;48.57416041577966;13.455641683579472;Bahnhofstraße 
 Dr. med. Beatrix Ullmann dermatologist;48.57425615174265;13.45660630268452;Bahnhofstraße 8, 94032 Passau
 Hautzentrum Passau - Hautärztin Stephanie Dessoi & Kollegen;48.57493578333508;13.456956599777635;Am Schanzl 8, 94032 Passau
 Dr. med. Andrea Wettstein;48.57429355466127;13.458989388075462;Ludwigstraße 18, 94032 Passau
-Dr. med. Andreas Püschel;48.5922719387956;13.48524590492475;Alte Str. 69, 94034 Passau
+Dr. med. Andreas Püschel;48.59141184913602;13.482623277564564;Alte Str. 69, 94034 Passau
 Praxis Dr. Schön;48.57139512719789;13.475645235790411;Kapuzinerstraße 47, 94032 Passau
 Dr.med. Mechthild Gassel Praktische Ärztin;48.57140935764832;13.45771959433845;Kleiner Exerzierpl. 14A, 94032 Passau
 Facharztzentrum Schießstattweg;48.569559799977945;13.43329690887499;Schießstattweg 62, 94032 Passau
