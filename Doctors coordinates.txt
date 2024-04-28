@@ -1,15 +1,15 @@
 Name;Latitude;Longitude;Address
-Allgemeinarztpraxis Gabriel;48.58656233175252;13.490968682810125;Dr.-Fritz-Ebbert-Straße 1, 94034 Passau
-Dr. med. Manfred Kronawitter - Ärztezentrum Passau-Nord;48.58674773119781;13.48341137825791;Prinz-Eugen-Straße 3, 94034 Passau
-Gemeinschaftspraxis Dres. Doris und Stefan Haversath;48.5715124913825;13.470642483991716;Kapuzinerstraße 2a, 94032 Passau
-Dr. med. Franz Lischke;48.57505561932241;13.457701489391644;Ludwigspl. 7, 94032 Passau
-Wolfgang M. Gradel;48.573389427823656;13.457583205495139;Nibelungenpl. 2, 94032 Passau
-Praxis Dr. Florian Söhn;48.57252131792395;13.45825113602802;Nibelungenpl. 4, 94032 Passau
-Specialists in general medicine Drs. Ursula & Stefan Hafner;48.571637408893835;13.457607060157027;Kleiner Exerzierpl. 14, 94032 Passau
-Allgemeinarzt Passau, Stadtturm, Dr. med. Angelika Metzger-Weiser;48.572505533969625;13.45662901901959;Nibelungenpl. 1, 94032 Passau
-Gemeinschaftspraxis Dres. Spechter/Stadler/Sauer;48.5732473745208;13.454625227038148;Dr.-Hans-Kapfinger-Straße 14a, 94032 Passau
-Dr. med. Arpad Geller specialist in general medicine;48.572170204086895;13.45475106317944;Dr.-Hans-Kapfinger-Straße 20, 94032 Passau
-Frau Bozena Süme;48.57322199332961;13.45157004510217;Grünaustraße 13, 94032 Passau
+Allgemeinarztpraxis Gabriel;48.5854131780256;13.491331069970142;Dr.-Fritz-Ebbert-Straße 1, 94034 Passau
+Dr. med. Manfred Kronawitter - Ärztezentrum Passau-Nord;48.58508053631278; 13.483527696448443;Prinz-Eugen-Straße 3, 94034 Passau
+Gemeinschaftspraxis Dres. Doris und Stefan Haversath;48.57070116294672; 13.4708410961064;Kapuzinerstraße 2a, 94032 Passau
+Dr. med. Franz Lischke;48.57402892801037;13.457620649504147;Ludwigspl. 7, 94032 Passau
+Wolfgang M. Gradel;48.57304405966225;13.457609155765246;Nibelungenpl. 2, 94032 Passau
+Praxis Dr. Florian Söhn;48.57210100456528;13.458111864315022;Nibelungenpl. 4, 94032 Passau
+Specialists in general medicine Drs. Ursula & Stefan Hafner;48.57135164360499;13.457835833710572;Kleiner Exerzierpl. 14, 94032 Passau
+Allgemeinarzt Passau, Stadtturm, Dr. med. Angelika Metzger-Weiser;48.57213665632934;13.456677182441009;Nibelungenpl. 1, 94032 Passau
+Gemeinschaftspraxis Dres. Spechter/Stadler/Sauer;48.572995287207895;13.454433373387616;Dr.-Hans-Kapfinger-Straße 14a, 94032 Passau
+Dr. med. Arpad Geller specialist in general medicine;48.57200454536818;13.454803482211236;Dr.-Hans-Kapfinger-Straße 20, 94032 Passau
+Frau Bozena Süme;48.57298177477;13.451604993328331;Grünaustraße 13, 94032 Passau
 Allgemeinarztpraxis Petra van Ingen;48.57304336523717;13.452007686463345;Grünaustraße 13, 94032 Passau
 Dr. med. univ. Markus Schuh;48.57726636099236;13.44336593065504;Bräuhausplatz 12, 94034 Passau
 Gemeinschaftspraxis Dres Hartwig/Huber;48.57798504110168;13.440035806038766;Glockenstraße 6, 94034 Passau
@@ -45,7 +45,7 @@ Praxis Peter Stadler;48.572593763429026; 13.453126277498438;Firmianstraße 6, 94
 Friedrich Walther Facharzt für Allgemeinmedizin;48.57516112402362;13.456326538371808;Am Schanzl 10, 94032 Passau
 Dr. med. Andreas Baumann Facharzt für Anästhesie;48.570065540675046;13.418137319543414;Vornholzstraße 13, 94036 Passau
 Dr. med. Stefan Kuklinski Facharzt für Anästhesiologie;48.569727909077486;13.435101451056184;Schießstattweg 60, 94032 Passau
-Dr.med. Horst Wittner Facharzt für Anästhesiologie;48.57877668057787;13.434000295990215;Tannenstraße 7, 94034 Passau
+Dr.med. Horst Wittner Facharzt für Anästhesiologie;48.57822704867233;13.430799289702847;Tannenstraße 7, 94034 Passau
 Klinikum Passau;48.5647761288693; 13.445923346067282;Innstraße 76, 94032 Passau
 Klinikum Passau Hellge Klinik;48.56964425438667;13.448067865457116;Hochstraße 6, 94032 Passau
 MKG-Praxis Passau-Kohlbruck;48.55612900576603;13.414770662335744;Dr.-Emil-Brichta-Straße 5, 94036 Passau
@@ -61,7 +61,7 @@ Venenpraxis am Messepark Rita Steinhauer;48.55567453595647;13.414012380329629;Dr
 Dr. Robert Brandl;48.5697953754119;13.434156594973777;Schießstattweg 60, 94032 Passau
 DR. MED. CLAUS GRUSS;48.5715655112613;13.4586694142008;www.hautarzt, Kleiner Exerzierpl. 14, 94032 Passau
 Dermatologie im Stadtturm;48.57233178445736;13.457356023921552;Nibelungenpl. 1, 94032 Passau
-Frau Dr. med. Jutta Häring;48.57416041577966;13.455641683579472;Bahnhofstraße 11, 94032 Passau
+Frau Dr. med. Jutta Häring;48.574030336106375;13.455633999958602;Bahnhofstraße 11, 94032 Passau
 Dr. med. Beatrix Ullmann dermatologist;48.57425615174265;13.45660630268452;Bahnhofstraße 8, 94032 Passau
 Hautzentrum Passau - Hautärztin Stephanie Dessoi & Kollegen;48.57493578333508;13.456956599777635;Am Schanzl 8, 94032 Passau
 Dr. med. Andrea Wettstein;48.57429355466127;13.458989388075462;Ludwigstraße 18, 94032 Passau
